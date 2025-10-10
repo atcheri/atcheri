@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atch
 ================================================================================================================================
-Have been learning, still learning and will continue learning tech stuff and apply them for real businesses
-* 🌍  I'm based in Germany
+Have been learning, still learning and will continue learning tech stuff and leverage that to help real businesses grow
+* 🌍  I'm currently based in Germany
 * 🖥️  See my portfolio at [atsuhiro.site](http://atsuhiro.site)
 * 🧠  I'm learning Blockchain, DDD, TDD
-* 🤝  I'm open to collaborating on Anything blockchain (other than crypto)
+* 🤝  I'm open to collaborating on Anything blockchain
 * ⚡  Have never tried coding while climbing... yet.
 
 ### Skills
